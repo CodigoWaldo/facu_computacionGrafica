@@ -7,11 +7,11 @@ Exercises made in class with the personal final project.
 Credits:	
 
 	Teachers:
-		Pablo novara
-		Francisco Mainero
+		    Pablo novara
+	      	Francisco Mainero
 
 	Student:
-	    Voegeli Walter	
+	        Voegeli Walter	
 
     University:
-	    UNL - Facultad de ingenieria y ciencias hidricas	
+	        UNL - Facultad de ingenieria y ciencias hidricas	
