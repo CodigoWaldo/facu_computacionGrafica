@@ -5,6 +5,7 @@ Exercises made in class with the personal final project.
 ---
 
 Credits:	
+
 	Teachers:
 		Pablo novara
 		Francisco Mainero
