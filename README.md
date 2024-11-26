@@ -1,17 +1,7 @@
-# Computer graphics
+# Computación gráfica.
+Trabajos prácticos realizados en la cátedra.
 
-Exercises made in class with the personal final project.
-
----
-
-Credits:	
-
-		Teachers:
-				Pablo novara
-				Francisco Mainero
-
-		Student:
-				Voegeli Walter	
-
-		University:
-				UNL - Facultad de ingenieria y ciencias hidricas	
+```
+Lenguajes: C++, OpenGL Shading Language.
+IDE: Zinjai.
+```

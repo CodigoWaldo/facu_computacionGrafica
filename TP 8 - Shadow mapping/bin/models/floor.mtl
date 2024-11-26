@@ -1,0 +1,16 @@
+newmtl random
+Ns 100
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.25 0.25 0.25
+map_Kd floor.png
+d 0.7
+illum 2
+
+newmtl flat
+Ns 300
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.75 0.75 0.75
+d 0.7
+illum 2
